@@ -1,0 +1,8 @@
+input[name="check_string"] {
+	width: 70%;
+	height: 34px;
+	margin: 10px;
+}
+#check_result {
+	margin: 10px;
+}
